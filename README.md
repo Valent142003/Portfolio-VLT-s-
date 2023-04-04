@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/1092068663827370044/1092910657667612803/LOGO-V.png" width="200" alt="Laravel Logo"></a></p>
-=======
 # <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/1092068663827370044/1092910657667612803/LOGO-V.png" width="300" alt="Laravel Logo"></a></p>
->>>>>>> faea1ceaf16c378ad335c6b95a029fc9bc10f3ee
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
