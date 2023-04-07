@@ -19,7 +19,9 @@ Then, open file `Portfolio-VLTs` with VSCode and open terminal, copy and paste.
 npm i
 npm run dev
 ```
+
 Next, rename `example.env -> .env` and change name database `DB_DATABASE=project_name`.
+
 If you want to create datebase, open new open terminal, copy and paste.
 ```sh
 php artisan migrate
