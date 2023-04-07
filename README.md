@@ -4,31 +4,29 @@
 </a>
 
 
-If you don't have this file, you can copy and paste in cmd.
+<p> If you don't have this file, you can copy and paste in cmd. </p>
 ```sh
 git clone https://github.com/Valent142003/Portfolio-VLTs.git 
 ```
 
-Or you have this file, but the file is not update, you can copy and paste in cmd.
+<p> Or you have this file, but the file is not update, you can copy and paste in cmd. </p>
 ```sh
 git pull https://github.com/Valent142003/Portfolio-VLTs.git 
 ```
 
-Then, open file `Portfolio-VLTs` with VSCode and open terminal, copy and paste.
+<p> Then, open file `Portfolio-VLTs` with VSCode and open terminal, copy and paste. </p>
 ```sh
 npm i
 npm run dev
 ```
 
-Next, rename `example.env -> .env` and change name database `DB_DATABASE=project_name`.
-
-If you want to create datebase, open new open terminal, copy and paste.
+<p> Next, rename `example.env -> .env` and change name database `DB_DATABASE=project_name`. </p>
+<p> If you want to create datebase, open new open terminal, copy and paste. </p>
 ```sh
 php artisan migrate
 ```
 
-After all, open new open terminal, copy and paste.
+<p> After all, open new open terminal, copy and paste. </p>
 ```sh
 php artisan serve
 ```
-
