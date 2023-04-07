@@ -3,16 +3,16 @@
 <p align="center">VLTs</p>
 </a>
 
+
+if you don't have this file, you can copy and paste in cmd.
+
 ```sh
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Valent142003/Portfolio-VLTs.git 
-git push -u origin main
+git clone https://github.com/Valent142003/Portfolio-VLTs.git 
 ```
 
+or you have this file, but the file is not update, you can copy and paste in cmd.
 ```sh
 git pull https://github.com/Valent142003/Portfolio-VLTs.git 
 ```
 
+after all, open file `Portfolio-VLTs`
