@@ -3,10 +3,17 @@
 
 <head>
     <meta charset="utf-8">
+    <!-- meta responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title -->
     <title>VLTs</title>
+    <!-- Boostrap css link -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <!-- Bulma css link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <!-- icon bar -->
     <link rel="icon" href="https://cdn.discordapp.com/attachments/1092068663827370044/1092551879340347433/kEhrQay.png" type="image/icon type">
+    <!-- Custom css link -->
     <link rel="stylesheet" href="index.css">
 
 </head>
